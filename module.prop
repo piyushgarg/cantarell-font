@@ -1,0 +1,7 @@
+id=cantarell_font
+name=Cantarell Font
+version=v1.1
+versionCode=110
+author=prime3sdro@xda
+description=Cantarell is the default typeface supplied with the user interface of GNOME since version 3.0
+minMagisk=17000
