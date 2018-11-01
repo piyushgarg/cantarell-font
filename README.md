@@ -9,7 +9,7 @@ Cantarell is the default typeface supplied with the user interface of GNOME sinc
 The font was originated by Dave Crossland in 2009.
 The font looks more natural with high DPI and easy to get used to.
 
-This module is a simple way to apply Cantarell font systemlessly.
+This module is a systemless way to apply Cantarell font.
 Credits: @topjohnwu and @gloeyisk, without them this module wont be possible. Many-2 thanks!!
 
 ## RECENT CHANGES
@@ -20,5 +20,5 @@ Credits: @topjohnwu and @gloeyisk, without them this module wont be possible. Ma
 ## SOURCES
 
 - Google Font: [Cantarell](https://fonts.google.com/specimen/Cantarell)
-- Module: [GitHub](https://github.com/piyusgarg/cantarell-font)
+- Module: [GitHub](https://github.com/piyushgarg/cantarell-font)
 
