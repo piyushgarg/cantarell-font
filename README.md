@@ -5,8 +5,6 @@
 
 <img src="https://image.ibb.co/hwqqf0/Whats-App-Image-2018-11-01-at-2-14-20-PM.jpg" alt="Screenshot">
 
-<img src="" alt="Screenshot">
-
 Cantarell is the default typeface supplied with the user interface of GNOME since version 3.0.
 The font was originated by Dave Crossland in 2009.
 The font looks more natural with high DPI and easy to get used to.
